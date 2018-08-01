@@ -1,0 +1,7 @@
+{
+      "encoding":"FLAC",
+      "sampleRateHertz": 8000,
+      "languageCode": "en-US",
+      "enableWordTimeOffsets": true,
+      "enableAutomaticPunctuation": false
+}
