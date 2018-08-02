@@ -1,0 +1,13 @@
+{
+  "voice": {
+    "languageCode": "en-GB",
+    "name": "en-GB-Wavenet-B",
+    "ssmlGender": "MALE"
+  },
+  "audioConfig": {
+    "audioEncoding": "MP3",
+ "audioEncoding": "LINEAR16",
+"pitch": "1.99",
+"speakingRate": "0.90"
+  }
+}

@@ -1,0 +1,15 @@
+usage:  
+>python text_sp.py FILE.config
+or
+>python text_sp.py FILE
+to use FILE.config
+or
+>python text_sp.py
+to use: text_sp.config
+
+Commands:
+ h - help
+ c - run : gcloud auth list
+ r - reload config file 
+ t - testing
+ q - exit 
